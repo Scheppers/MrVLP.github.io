@@ -23,8 +23,6 @@ Test2
 </div>
 <iframe src="https://lokersebc.be/wp-admin/admin-ajax.php?action=h5p_embed&id=2" width="492" height="301" frameborder="0" allowfullscreen="allowfullscreen" title="Grootheden en eenheden"></iframe><script src="https://lokersebc.be/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<a href="index2.html">Test</a>
-
 </body>
 
 </html>
